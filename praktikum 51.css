@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.box{
+    width: 160px;
+    height: 500px;
+    margin: 20px;
+}
+.box-1{
+    border: 2px solid black;
+    float: left;
+    background-color: yellow;
+}
+.box-2{
+    border: 2px solid black;
+    float: left;
+    background-color: orange;
+}
+.box-3{
+    border: 2px solid black;
+    float: left;
+    background-color: yellowgreen;
+}
+.box-4{
+    border: 2px solid black;
+    float: left;
+    background-color: aqua;
+}
